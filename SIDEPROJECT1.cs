@@ -11,7 +11,7 @@ namespace RandomUses
         static void Main(string[] args)
         {
             Console.WriteLine("Howdy There Traveler, I Think I Know What You're Looking For.");
-            Console.WriteLine("Come Take A Look At My Wares");
+            Console.WriteLine("Come Take A Look At My Wares!");
             
             while (true)
 
