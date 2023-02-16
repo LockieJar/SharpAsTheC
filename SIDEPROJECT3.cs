@@ -10,7 +10,12 @@ namespace tttgame
     {
         static void Main(string[] args)
         {
-
+            // This is a Tic Tac Toe game
+            // I am doing this to become more familiar with c#
+            // I hope to get some notes from this as i have tweaked the source code from a video online
+            // This is not completely my own work so i cannot take full credit 
+            // I also hope this brings some of you some joy
+            
             int gameStatus = 0;
             int currentPlayer = -1;
             char[] gameMarkers = { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
